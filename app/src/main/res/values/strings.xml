@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Robot EV3</string>
+    <string name="CLEEV3">1</string>
+    <string name="PREFERENCESEV3">23</string>
+    <string name="bt_failed">Could not connect to given mac address</string>
+    <string name="bt_disabled">Please enable Bluetooth</string>
+</resources>
